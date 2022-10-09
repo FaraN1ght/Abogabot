@@ -1,12 +1,10 @@
 # Abogabot
 
 ## Descripción del Caso
-
 Un despacho de abogados (Abogabot) requiere un aplicativo web para automatizar las demandas de sus clientes utilizando un formulario para la captura de datos y un sistema de pagos posterior al llenado de datos para finalizar la transacción.
 <hr/>
 
 ## Análisis de Requerimientos
-
 La aplicación deberá contar con 2 roles: `Administrador y Cliente` y para su desarrollo se tienen las siguientes historias de usuario.
 <br/>
 
@@ -27,3 +25,13 @@ La aplicación deberá contar con 2 roles: `Administrador y Cliente` y para su d
   * ### Todos los Usuarios
   1. Como Usuario requiere tener una `página responsive` para poder verla desde diferentes pantallas/dispositivos.
   2. Como Usuario requiere poder `registrar` una cuenta de usuario o `conectarse` en caso de que ya tenga una en la plataforma web.
+
+## Diagrama de Flujo de la Aplicación
+![flowchart app](/assets/images/flowchart_app.jpg)
+
+## Buyer Persona
+Se define como el cliente ideal del proyecto web, aquel que compraría el proyecto. El cliente ideal definido para el caso es el `Director Financiero` de la firma de abogados.
+
+![pdf](/assets/images/buyer_prs.jpg)
+
+
