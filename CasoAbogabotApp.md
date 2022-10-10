@@ -26,12 +26,23 @@ La aplicación deberá contar con 2 roles: `Administrador y Cliente` y para su d
   1. Como Usuario requiere tener una `página responsive` para poder verla desde diferentes pantallas/dispositivos.
   2. Como Usuario requiere poder `registrar` una cuenta de usuario o `conectarse` en caso de que ya tenga una en la plataforma web.
 
-## Diagrama de Flujo de la Aplicación
+## Diagrama de Flujo de la Aplicación (https://miro.com/es/)
 ![flowchart app](/assets/images/flowchart_app.jpg)
 
-## Buyer Persona
+## Buyer Persona (https://www.hubspot.es/make-my-persona)
 Se define como el cliente ideal del proyecto web, aquel que compraría el proyecto. El cliente ideal definido para el caso es el `Director Financiero` de la firma de abogados.
 
-![pdf](/assets/images/buyer_prs.jpg)
+![buyer_persona](/assets/images/buyer_pr.jpg)
 
+## Público Objetivo (https://miro.com/es/)
+Es el `cliente potencial` del servicio que se está ofreciendo en el aplicativo web. Las personas seleccionadas reunen características generales de individuos que consumen o necesitan servicios relacionados al ofrecido.
 
+![publico_objetivo](/assets/images/publico_objetivo.jpg)
+
+## Diseño UX (https://miro.com/es/)
+El user experiencie o `experiencia de usuario` es, valga la redundancia, la experiencia que tendrá el usuario al interactuar con la aplicación. Básicamente es cómo una persona se sentirá mientras usa el aplicativo desarrollado y qué tan fácil o cómodo será.
+
+![wireframe_ux](/assets/images/wireframe_ux.jpg)
+
+## Diseño UI 
+En desarrollo...
